@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestHashMap
+comment0.text=\r\n\ This\ is\ my\ HashMap\ class.\ Here\ we\ create\ an\ initialize\ a\ HashMap\ where\ the\ key\r\n\ is\ a\ String\ (representing\ a\ category)\ and\ the\ value\ is\ an\ integer.\ I\ have\ 5\ categories\r\n\ with\ corresponding\ values\ (in\ this\ case\ how\ much\ I\ "own"\ of\ each\ category\ item).\ We\ then\r\n\ use\ the\ iterator\ to\ increase\ the\ count\ of\ an\ item\ (add\ 10\ extra\ values\ to\ the\ Book\ category)\r\n\ and\ to\ remove\ a\ category\ (category\ 4\ in\ this\ case\ (TV\ shows))\ and\ print\ it\ out.\r\n
+comment1.params=
+comment1.target=TestHashMap()
+comment2.params=
+comment2.target=java.util.HashMap\ getHashMap()
+comment3.params=
+comment3.target=void\ insertCategories()
+comment4.params=
+comment4.target=int\ getNumberOfEntries()
+comment5.params=key
+comment5.target=boolean\ keyFound(java.lang.String)
+comment6.params=key
+comment6.target=int\ returnValue(java.lang.String)
+comment7.params=
+comment7.target=void\ run()
+numComments=8

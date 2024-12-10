@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestTreeMap
+comment0.text=\r\n\ This\ is\ my\ TreeMap\ class.\ In\ this\ class\ we\ create\ and\ populate\ a\ \r\n\ TreeMap\ where\ the\ keys\ are\ months\ (Strings)\ and\ the\ values\ are\ average\ temperatures\ (Doubles).\r\n\ I\ used\ the\ average\ temperatures\ for\ Dallas,\ TX\ in\ 2023\ &\ 2024.\ We\ then\ use\ an\ iterator\ \r\n\ over\ the\ entrySet()\ to\ find\ the\ highest\ and\ lowest\ temperatures\ and\ the\ corresponding\ months\ and\r\n\ print\ it\ out.\r\n
+comment1.params=
+comment1.target=TestTreeMap()
+comment2.params=
+comment2.target=void\ insertData()
+comment3.params=
+comment3.target=double\ getLowTemp()
+comment4.params=
+comment4.target=double\ getHighTemp()
+comment5.params=
+comment5.target=java.lang.String\ getLowTempMonth()
+comment6.params=
+comment6.target=java.lang.String\ getHighTempMonth()
+comment7.params=
+comment7.target=void\ run()
+numComments=8
